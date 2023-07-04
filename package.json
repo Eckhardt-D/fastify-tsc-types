@@ -1,0 +1,13 @@
+{
+  "name": "fastify-type-break",
+  "version": "0.0.0",
+  "private": true,
+  "main": "build/server.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "fastify": "^4.19.2",
+    "typescript": "4.6.4"
+  }
+}
